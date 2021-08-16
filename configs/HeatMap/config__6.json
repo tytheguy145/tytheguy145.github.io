@@ -1,0 +1,8 @@
+{
+  "widgetName": "HeatMap",
+  "inPanelVar": {
+    "params": {
+      "featureServiceUrl": "https://services.arcgis.com/IBZpB6oNXY4mCIej/arcgis/rest/services/drinking%20water/FeatureServer"
+    }
+  }
+}
